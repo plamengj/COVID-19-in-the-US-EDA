@@ -1,0 +1,50 @@
+"Prepared by Global Health 50/50
+Last updated: 03/04/2020. Data reported from last available date of sex-disaggregated reporting based on the 39 countries with the highest number of confirmed cases",,,,,,,,,,,,
+COVID-19: Sex-disaggregated data tracker,,,,,,,,,,,,
+Country,Date,Confirmed cases,,,Deaths,,,Proportion of deaths among confirmed cases,,,,Source
+,,Total,% male,% female,Total,% male,% female,Total,Male,Female,Male:female ratio,
+Australia ,4-Mar,"5,087",51%,49%,26,na,na,0.50%,na,na,na,http://www9.health.gov.au/cda/source/rpt_5.cfm
+Austria,4-Mar,"11,412",51%,49%,168,na,na,1.50%,na,na,na,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html
+Belgium,4-Feb,"16,770",46%,54%,1143,57%,41%,6.80%,8.40%,5.30%,1.59,https://epistat.wiv-isp.be/Covid/covid-19.html
+Brazil ,4-Mar,"7,910",na,na,299,na,na,3.80%,na,na,na,https://covid.saude.gov.br/
+Canada*,4-Feb,"6,429",49%,51%,127,na,na,2.00%,na,na,na,https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/2019-novel-coronavirus-infection/COVID19-epi-update-eng-2020-04-02.pdf
+Chile,4-Jan,"2,938",50%,50%,18,na,na,0.50%,na,na,na,http://epi.minsal.cl/wp-content/uploads/2020/04/Informe_19_COVID_19_Chile.pdf
+China,28/02,"55,924",51%,49%,2114,64%,36%,3.80%,4.70%,2.80%,1.68,https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
+Czech Republic,4-Mar,"3,869",51%,49%,46,na,na,1.20%,na,na,na,https://onemocneni-aktualne.mzcr.cz/covid-19
+Denmark,4-Mar,"3,672",50%,50%,139,67%,33%,3.80%,5.10%,2.50%,2.06,https://www.ssi.dk/-/media/ssi-files/covid19-overvaagningsrapport-03042020-hjkl.pdf?la=da
+Ecuador,4-Feb,"3,163",55%,45%,120,na,na,3.80%,na,na,na,https://twitter.com/Salud_Ec/status/1245746831797223424/photo/1
+Finland,4-Feb,"1,615",51%,49%,19,na,na,1.20%,na,na,na,https://experience.arcgis.com/experience/d40b2aaf08be4b9c8ec38de30b714f26
+France**,15/03,"6,378",47%,53%,161,58%,42%,2.50%,3.10%,2.00%,1.55,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-15-mars-2020
+Germany,4-Feb,"73,552",52%,48%,872,65%,35%,1.20%,1.50%,0.90%,1.72,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-02-en.pdf?__blob=publicationFile
+Greece,29/03,"1,156",56%,44%,38,na,na,3.30%,na,na,na,https://eody.gov.gr/wp-content/uploads/2020/03/covid-gr-daily-report-29-03-20.pdf
+Indonesia,4-Mar,"1,986",na,na,181,na,na,9.10%,na,na,na,https://www.covid19.go.id/2020/04/03/infografis-covid-19-3-april-2020/
+Iran,17/03,"14,991",57%,43%,853,59%,41%,5.70%,5.90%,5.40%,1.09,https://twitter.com/drjahanpur/status/1239837848175439874
+Israel,4-Mar,"7,030",na,na,36,na,na,0.50%,na,na,na,https://t.me/s/MOHreport
+Italy,4-Feb,"106,399",55%,45%,12550,69%,31%,11.80%,14.80%,8.20%,1.8,https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_2-aprile-2020.pdf
+Japan,4-Jan,"1,808",59%,40%,57,na,na,3.20%,na,na,na,"https://mhlw-gis.maps.arcgis.com/apps/opsdashboard/index.html#/0c5d0502bbb54f9a8dddebca003631b8
+https://toyokeizai.net/sp/visual/tko/covid19/en.html"""
+Luxembourg,4-Feb,"2,487",na,na,30,na,na,1.20%,na,na,na,https://msan.gouvernement.lu/en/dossiers/2020/corona-virus.html
+Malaysia,4-Mar,"3,333",na,na,53,na,na,1.60%,na,na,na,http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan
+Norway,4-Feb,"5,208",51%,49%,44,na,na,0.80%,na,na,na,https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/
+Pakistan,4-Mar,"2,458",na,na,35,na,na,1.40%,na,na,na,http://covid.gov.pk/stats/pakistan
+Philippines,4-Mar,3018,60%,40%,136,na,na,4.50%,na,na,na,https://ncovtracker.doh.gov.ph/
+Poland,4-Mar,3149,na,na,59,na,na,1.90%,na,na,na,https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
+Portugal,4-Mar,"9,886",44%,56%,246,58%,42%,2.50%,3.30%,1.90%,1.75,https://covid19.min-saude.pt/wp-content/uploads/2020/04/32_DGS_boletim_20200403.pdf
+Republic of Ireland,4-Feb,3282,48%,51%,98,69%,31%,3.00%,4.30%,1.80%,2.39,https://www.gov.ie/en/news/7e0924-latest-updates-on-covid-19-coronavirus/
+Romania,4-Mar,3183,41%,55%,122,na,na,3.80%,na,na,na,https://datelazi.ro/
+Russia,4-Mar,4149,na,na,34,na,na,0.80%,na,na,na,https://www.worldometers.info/coronavirus/
+Saudi Arabia,4-Mar,2039,na,na,25,na,na,1.20%,na,na,na,https://www.worldometers.info/coronavirus/
+South Korea,4-Mar,10062,40%,60%,174,53%,47%,1.70%,2.30%,1.40%,1.69,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+Spain*,4-Mar,70684,49%,51%,4543,63%,37%,6.40%,8.60%,4.80%,1.79,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_64_COVID-19.pdf
+Sweden,4-Mar,6078,51%,49%,333,59%,41%,5.50%,6.40%,4.60%,1.4,https://fohm.maps.arcgis.com/apps/opsdashboard/index.html#/68d4537bf2714e63b646c37f152f1392
+Switzerland,4-Mar,19303,48%,52%,484,63%,37%,2.50%,3.30%,1.80%,1.88,https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#1164290551
+Thailand,31/03,1651,55%,39%,10,na,na,0.60%,na,na,na,https://ddc.moph.go.th/viralpneumonia/eng/file/situation/situation-no88-310363.pdf
+The Netherlands,4-Mar,15723,49%,51%,1487,61%,39%,9.50%,11.80%,7.20%,1.63,https://www.rivm.nl/documenten/epidemiologische-situatie-covid-19-in-nederland-3-april-2020
+Turkey,4-Mar,18135,na,na,356,na,na,2.00%,na,na,na,https://covid19.saglik.gov.tr/
+UK,4-Mar,38168,na,na,3605,na,na,9.40%,na,na,na,https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public
+USA,4-Mar,239279,na,na,5443,na,na,2.30%,na,na,na,https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
+,,,,,,,,,,,,
+,Sex-disaggregated cases and deaths,,,,,,,,,,,
+,Sex-disaggregated cases,,,,,,,,,,,
+,No sex-disaggregated data on cases or deaths,,,,,,,,,,,
+na,Data point not available,,,,,,,,,,,
