@@ -26,11 +26,10 @@ I have used pandas and dataframes to examine, plot and analyze this subset of da
 ## Exploration
 This section contains plots that demonstrate the types of information that can be gleaned from this feature-rich data set.
 
-### 
+### Number of cases/deaths in the US - total, per state, per county
 | Cases |	Deaths |	Mortality Rate |
 |:---:|:--:|:--:|
 |Total |	308850 |	8407 |	2.72|
-
 
 
 |State|	Cases	|Deaths|
@@ -59,6 +58,9 @@ This section contains plots that demonstrate the types of information that can b
 |Rockland|	New York|	4872|	69
 |Los Angeles|	California|	4605|	93
 |Orleans|	Louisiana|	3966|	153
+
+
+These are tables of the number of cases/deaths by state/county in the US
 
 ### Cases/Deaths by State/County in the US
 <div align="left">
