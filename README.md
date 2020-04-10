@@ -80,7 +80,7 @@ These are plots of the number of cases/deaths by state/county in the US
 This is a choropleth map showing the deaths per state.
 
 ### COVID-19 Cases USA (daily growth)
-<div align="center">
+<div align="left">
 <img src="figures/COVID-19 Cases USA.png">
 </div>
 
