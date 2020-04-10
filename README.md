@@ -26,6 +26,40 @@ I have used pandas and dataframes to examine, plot and analyze this subset of da
 ## Exploration
 This section contains plots that demonstrate the types of information that can be gleaned from this feature-rich data set.
 
+### 
+| Cases |	Deaths |	Mortality Rate |
+|:---:|:--:|:--:|
+|Total |	308850 |	8407 |	2.72|
+
+
+
+|State|	Cases	|Deaths|
+|:---:|:--:|:--:|
+|New York |	113833 |	3565
+|New Jersey |	34124	| 846
+|Michigan	| 14225	| 540
+|California	| 12837 |	289
+|Louisiana|	12496|	409
+|Massachusetts|	11736|	216
+|Florida |	11545 |	195
+|Pennsylvania	| 10444 |	136
+|Illinois |	10357 |	244
+|Washington	| 7247	| 315
+
+
+|County | State	| Cases|	Deaths
+|:---:|:--:|:--:|:--:|
+|New York City|	New York|	63306|	1905
+|Nassau |	New York|	13346|	95
+|Westchester|	New York|	13081|	67
+|Suffolk|	New York|	11370|	124
+|Cook	|Illinois	|7439|	167
+|Wayne|	Michigan|	6762|	252
+|Bergen	|New Jersey|	5760|	179
+|Rockland|	New York|	4872|	69
+|Los Angeles|	California|	4605|	93
+|Orleans|	Louisiana|	3966|	153
+
 ### Cases/Deaths by State/County in the US
 <div align="left">
 <img src="figures/Top 10 States_USA (Cases).png"> <img src="figures/Top 10 States_USA (Deaths).png">
@@ -39,7 +73,7 @@ These are plots of the number of cases/deaths by state/county in the US
 
 
 ### Choropleth map of the number of deaths by COVID-19 by state
-<div align="center">
+<div align="left">
 <img src="figures/Choropleth.png">
 </div>
 
