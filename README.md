@@ -1,7 +1,7 @@
 # COVID 19 in the US
 
 ## Plamen Dzhelepov
-[Linkedin](https://www.linkedin.com/in/pdzhelepov) | [Github](https://github.com/plamengj) | [Slides](/presentation/COVID-19 USA EDA.pptx)
+[Linkedin](https://www.linkedin.com/in/pdzhelepov) | [Github](https://github.com/plamengj) | [Slides](/presentation/COVID-19 USA EDA.pdf)
 
 ## Table of Contents
 
