@@ -27,20 +27,12 @@ I have used pandas and dataframes to examine, plot and analyze this subset of da
 This section contains plots that demonstrate the types of information that can be gleaned from this feature-rich data set.
 
 ### Cases/Deaths by State/County in the US
-<div align="center">
-<img src="figures/Top 10 States_USA (Cases).png">
+<div align="left">
+<img src="figures/Top 10 States_USA (Cases).png"> <img src="figures/Top 10 States_USA (Deaths).png">
 </div>
 
-<div align="center">
-<img src="figures/Top 10 States_USA (Deaths).png">
-</div>
-
-<div align="center">
-<img src="figures/Top 10 Counties_USA (Cases).png">
-</div>
-
-<div align="center">
-<img src="figures/Top 10 Counties_USA (Deaths).png">
+<div align="left">
+<img src="figures/Top 10 Counties_USA (Cases).png"> <img src="figures/Top 10 Counties_USA (Deaths).png">
 </div>
 
 These are plots of the number of cases/deaths by state/county in the US
